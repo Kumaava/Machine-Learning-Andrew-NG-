@@ -1,1 +1,66 @@
 
+Logistic Regression
+
+Andrew Ng
+
+Welcome to week 3! This week, we’ll be covering logistic regression. Logistic regression is a method for 
+classifying data into discrete outcomes. For example, we might use logistic regression to classify an email
+as spam or not spam. In this module, we introduce the notion of classification, the cost function for logistic
+regression, and the application of logistic regression to multi-class classification.
+
+We are also covering regularization. Machine learning models need to generalize well to new examples that the
+model has not seen in practice. We’ll introduce regularization, which helps prevent models from overfitting 
+the training data.
+
+As always, if you get stuck on the quiz and programming assignment, you should post on the Discussions to ask
+for help. (And if you finish early, I hope you'll go there to help your fellow classmates as well.
+
+More
+Classification and Representation
+
+Classification8 min
+Classification2 min
+Hypothesis Representation7 min
+Hypothesis Representation3 min
+Decision Boundary14 min
+Decision Boundary3 min
+Logistic Regression Model
+
+Cost Function10 min
+Cost Function3 min
+Simplified Cost Function and Gradient Descent10 min
+Simplified Cost Function and Gradient Descent3 min
+Advanced Optimization14 min
+Advanced Optimization3 min
+Multiclass Classification
+
+Multiclass Classification: One-vs-all6 min
+Multiclass Classification: One-vs-all3 min
+Review
+
+Lecture Slides10 min
+The course has ended. Assignments may not be resubmitted.
+Quiz: Logistic Regression5 questions
+Regularization
+
+Andrew Ng
+
+Machine learning models need to generalize well to new examples that the model has not seen in practice. In this module, we introduce regularization, which helps prevent models from overfitting the training data.
+
+Solving the Problem of Overfitting
+
+The Problem of Overfitting9 min
+The Problem of Overfitting3 min
+Cost Function10 min
+Cost Function3 min
+Regularized Linear Regression10 min
+Regularized Linear Regression3 min
+Regularized Logistic Regression8 min
+Regularized Logistic Regression3 min
+Review
+
+Lecture Slides10 min
+The course has ended. Assignments may not be resubmitted.
+Quiz: Regularization5 questions
+The course has ended. Assignments may not be resubmitted.
+Programming Assignment: Logistic Regression3h
