@@ -1,1 +1,70 @@
 
+Linear Regression with Multiple Variables
+
+Andrew Ng
+
+Welcome to week 2! I hope everyone has been enjoying the course and learning a lot! This week we’re covering linear regression with multiple variables. we’ll show how linear regression can be extended to accommodate multiple input features. We also discuss best practices for implementing linear regression.
+
+We’re also going to go over how to use Octave. You’ll work on programming assignments designed to help you understand how to implement the learning algorithms in practice. To complete the programming assignments, you will need to use Octave or MATLAB.
+
+As always, if you get stuck on the quiz and programming assignment, you should post on the Discussions to ask for help. (And if you finish early, I hope you'll go there to help your fellow classmates as well.)
+
+More
+Environment Setup Instructions
+
+Setting Up Your Programming Assignment Environment8 min
+Installing MATLAB3 min
+Installing Octave on Windows3 min
+Installing Octave on Mac OS X (10.10 Yosemite and 10.9 Mavericks and Later)10 min
+Installing Octave on Mac OS X (10.8 Mountain Lion and Earlier)3 min
+Installing Octave on GNU/Linux7 min
+More Octave/MATLAB resources10 min
+Multivariate Linear Regression
+
+Multiple Features8 min
+Multiple Features3 min
+Gradient Descent for Multiple Variables5 min
+Gradient Descent For Multiple Variables2 min
+Gradient Descent in Practice I - Feature Scaling8 min
+Gradient Descent in Practice I - Feature Scaling3 min
+Gradient Descent in Practice II - Learning Rate8 min
+Gradient Descent in Practice II - Learning Rate4 min
+Features and Polynomial Regression7 min
+Features and Polynomial Regression3 min
+Computing Parameters Analytically
+
+Normal Equation16 min
+Normal Equation3 min
+Normal Equation Noninvertibility5 min
+Normal Equation Noninvertibility2 min
+Submitting Programming Assignments
+
+Working on and Submitting Programming Assignments3 min
+Programming tips from Mentors10 min
+Review
+
+Lecture Slides20 min
+The course has ended. Assignments may not be resubmitted.
+Quiz: Linear Regression with Multiple Variables5 questions
+Octave/Matlab Tutorial
+
+Andrew Ng
+
+This course includes programming assignments designed to help you understand how to implement the learning algorithms in practice. To complete the programming assignments, you will need to use Octave or MATLAB. This module introduces Octave/Matlab and shows you how to submit an assignment.
+
+More
+Octave/Matlab Tutorial
+
+Basic Operations13 min
+Moving Data Around16 min
+Computing on Data13 min
+Plotting Data9 min
+Control Statements: for, while, if statement12 min
+Vectorization13 min
+Review
+
+Lecture Slides10 min
+The course has ended. Assignments may not be resubmitted.
+Quiz: Octave/Matlab Tutorial5 questions
+The course has ended. Assignments may not be resubmitted.
+Programming Assignment: Linear Regression3h
