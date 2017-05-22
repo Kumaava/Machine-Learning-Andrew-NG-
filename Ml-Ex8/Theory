@@ -1,1 +1,35 @@
 
+Unsupervised Learning
+Clustering
+
+Unsupervised Learning: Introduction3 min
+K-Means Algorithm12 min
+Optimization Objective7 min
+Random Initialization7 min
+Choosing the Number of Clusters8 min
+Review
+
+Lecture Slides10 min
+The course has ended. Assignments may not be resubmitted.
+Quiz: Unsupervised Learning5 questions
+Dimensionality Reduction
+Motivation
+
+Motivation I: Data Compression10 min
+Motivation II: Visualization5 min
+Principal Component Analysis
+
+Principal Component Analysis Problem Formulation9 min
+Principal Component Analysis Algorithm15 min
+Applying PCA
+
+Reconstruction from Compressed Representation3 min
+Choosing the Number of Principal Components10 min
+Advice for Applying PCA12 min
+Review
+
+Lecture Slides10 min
+The course has ended. Assignments may not be resubmitted.
+Quiz: Principal Component Analysis5 questions
+The course has ended. Assignments may not be resubmitted.
+Programming Assignment: K-Means Clustering and PCA3h
